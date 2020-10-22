@@ -141,7 +141,7 @@
                     </RelativeLayout>
 
                 </androidx.cardview.widget.CardView>
-                </LinearLayout>
+            </LinearLayout>
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
 </FrameLayout>
